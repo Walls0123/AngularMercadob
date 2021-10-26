@@ -34,7 +34,7 @@
     "bootstrap": "^4.4.1",
     "express": "^4.17.1",
     "jquery": "^3.4.1",
-    "jquery-ui": "^1.12.1",
+    "jquery-ui": "^1.13.0",
     "jquery-ui-dist": "^1.12.1",
     "ngx-google-places-autocomplete": "^2.0.4",
     "ngx-owl-carousel-o": "^2.0.3",
