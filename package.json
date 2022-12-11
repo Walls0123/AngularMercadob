@@ -32,7 +32,7 @@
     "angular-paginator": "^3.0.0",
     "animate.css": "^3.7.2",
     "bootstrap": "^4.4.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "jquery": "^3.4.1",
     "jquery-ui": "^1.12.1",
     "jquery-ui-dist": "^1.12.1",
